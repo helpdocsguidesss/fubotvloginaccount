@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fubotvloginaccount.readthedocs.io/en/latest/
